@@ -5,7 +5,7 @@
 - 📫 contate-me no email: rodrigoarcanjo690@gmail.com
 - 😄 Pronouns: ele/dele
 
-## Oiii eu sou Rodrigo Arcanjo, estudante de programação e tecnologia!
+## Oiii eu sou Rodrigo Arcanjo, estudante de analise e desenvolvimento de sistemas!
 <div align="center">
   <a href="https://github.com/rodrigoarcanjo23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoarcanjo23&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
