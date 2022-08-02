@@ -1,4 +1,4 @@
-## Olá! eu sou o Rodrigo Arcanjo
+## Olá! sou Rodrigo Arcanjo, vamos codar juntos? :)
 
 - 🔭 hoje estou trabalhando com ADS ...
 - 🌱 Estudando front-end
