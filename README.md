@@ -1,7 +1,7 @@
 ## Olá! sou Rodrigo Arcanjo, vamos codar juntos? :)
 
 - 🔭 hoje estou trabalhando com ADS ...
-- 🌱 Estudando front-end
+- 🌱 Dev Back-End java Fullstack
 - 📫 contate-me no email: rodrigoarcanjo690@gmail.com
 - 😄 Pronouns: ele/dele
 
