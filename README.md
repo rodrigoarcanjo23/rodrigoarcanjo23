@@ -1,9 +1,7 @@
-## Olá! sou Rodrigo Arcanjo, vamos codar juntos? :)
+## Rodrigo Arcanjo, CEO da Social Media Brazil.
 
-- 🔭 hoje estou trabalhando com ADS ...
-- 🌱 Dev Back-End java Fullstack
-- 📫 contate-me no email: rodrigoarcanjo690@gmail.com
-- 😄 Pronouns: ele/dele
+Seja muito bem-vindo ao meu GitHub! 
+Aqui você encontrará projetos que refletem minha paixão pela tecnologia e minha expertise como desenvolvedor full stack.
 
 ## Sejam muito bem vindos ao meu github!
 <div align="center">
