@@ -1,4 +1,4 @@
-## Rodrigo Arcanjo, CEO da Social Media Brazil.
+## Olá, sou Rodrigo Arcanjo.
 
 Seja muito bem-vindo ao meu GitHub! 
 Aqui você encontrará projetos que refletem minha paixão pela tecnologia e minha expertise como desenvolvedor full stack.
