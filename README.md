@@ -1,7 +1,7 @@
 ## Olá, sou Rodrigo Arcanjo.
 
 Seja muito bem-vindo ao meu GitHub! 
-Aqui você encontrará projetos que refletem minha paixão pela tecnologia e minha expertise como desenvolvedor full stack.
+Aqui você encontrará projetos que refletem minha paixão pela tecnologia e minha expertise como desenvolvedor.
 
 ## Sejam muito bem vindos ao meu github!
 <div align="center">
